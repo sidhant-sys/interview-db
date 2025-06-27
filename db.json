@@ -1,4 +1,5 @@
-[
+{
+"posts": [
   {
     "id": 40140,
     "imageUrl": "https://rukmini-ct.flixcart.com/q_75,w_420,h_300,fl_progressive,e_sharpen:80,c_fill,dpr_2,f_auto/ct-hotel-images/places/hotels/cms/4014/40140/images/image_40140_c49c4a3f-a71d-4084-8741-be4d6a3f9a59_proc.jpeg",
@@ -15,3 +16,4 @@
     "description": "Location: AM for a fee."
   }
 ]
+}
